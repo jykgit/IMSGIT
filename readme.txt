@@ -5,3 +5,4 @@ jyk good
 push test 
 Creating a new branch is quick.
 new branch
+Creating a new branch is quick&simple
